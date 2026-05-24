@@ -1,2 +1,3 @@
-# tea-e2e-identity-20260524-014849-repo
-Temporary Tea live identity E2E repo for tea-e2e-identity-20260524-014849
+# tea-e2e-identity-20260524-014849
+
+Temporary Tea DApp live identity E2E repository. Leave open for evidence.
